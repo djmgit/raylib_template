@@ -14,7 +14,7 @@ and MacOS. Physac and raygui header files are already added.
 - Run make to build and make run to run the project.
 - Tested on ubuntu 20.04.
 
-## On MacOS (Apple Sillicon (m2))
+## On MacOS
 
 - Download/Clone this repository, rename it and delete the .git folder.
 - The template comes with precompiled libraylib.a for M2 Apple Sillicon.
