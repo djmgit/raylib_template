@@ -2,7 +2,7 @@ COMPILER = cc
 LIB_OPTS = -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
 INCLUDE_PATHS = -Iinclude/
 OUT = -o out
-CFILES = main.c
+CFILES = *.c
 PLATFORM := $(shell uname)
 
 ifeq ($(PLATFORM), Darwin)
